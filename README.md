@@ -1,3 +1,3 @@
 # spring-tutorial-collection
 
-small example projects made while learnning spring
+small example projects made while learnning spring framework
