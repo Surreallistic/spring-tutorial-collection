@@ -11,6 +11,6 @@ Notes:
 
 - [mvn-repository](https://mvnrepository.com/search?q=spring)
 
-- konfiguracja spring może być w Javie, albo w plikahc XML
+- konfiguracja spring może być w Javie, albo w plikach XML
 
 
