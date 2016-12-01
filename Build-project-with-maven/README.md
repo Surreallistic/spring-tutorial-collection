@@ -5,7 +5,6 @@
 
 [maven](http://maven.apache.org/install.html) <br>
 
-
 > JAVA_HOME : C:\Program Files\Java\jdk1.8.0_112 <br>
 
 > JDK_HOME  : %JAVA_HOME%<br>
@@ -15,8 +14,6 @@
 > CLASSPATH : .;%JAVA_HOME%\lib;%JAVA_HOME%\jre\lib<br>
 
 > PATH      : your-unique-entries;%JAVA_HOME%\bin (make sure that the longish your-unique-entries does not contain any other references to another Java installation folder.<br>
-
-
 
 - Check environment variable value e.g.
 
