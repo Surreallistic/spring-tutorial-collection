@@ -13,4 +13,5 @@ Notes:
 
 - konfiguracja spring może być w Javie, albo w plikach XML
 
+- maven
 
